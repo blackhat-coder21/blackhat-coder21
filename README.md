@@ -22,7 +22,7 @@
 ## Connect with me
 
 <p align="left">
-<a href="[https://linkedin.com/in/ankit kumar](https://www.linkedin.com/in/ankit-kumar-b82a95260/)" target="blank" style="margin-right: 20px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit kumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ankit-kumar-b82a95260/" target="blank" style="margin-right: 20px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/a_nkit_k" target="blank" style="margin-right: 20px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_nkit_k" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/black_hatcoder" target="blank" style="margin-right: 20px;"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="black_hatcoder" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/black_hatcoder" target="blank" style="margin-right: 20px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="black_hatcoder" height="30" width="40" /></a>
