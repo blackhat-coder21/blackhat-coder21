@@ -19,7 +19,6 @@
 - 📄 Know about my experiences [https://ankitkr.vercel.app/](https://ankitkr.vercel.app/)
 - ⚡ Fun fact **Development oriented** and trying to improve my software skills
 
-## Connect with me
 
 ## 🌐 Connect with me  
 
