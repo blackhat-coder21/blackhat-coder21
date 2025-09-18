@@ -51,7 +51,7 @@
 
 
 
-## Languages and Tools
+## 💻 Tech Stack
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/> 
@@ -134,7 +134,7 @@
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=blackhat-coder21&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
-## ⚡ GitHub Stats ❤️
+## 📊 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackhat-coder21&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
