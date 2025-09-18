@@ -10,17 +10,17 @@ jobs:
     name: Generate snake animation
     runs-on: ubuntu-latest
     permissions:
-      contents: write   # allow pushing to output branch
+      contents: write
 
     steps:
-      # Snake Animation
-      - name: Generate Snake SVG
+      - name: Generate Snake (Light + Dark)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: blackhat-coder21
-          outputs: dist/snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
