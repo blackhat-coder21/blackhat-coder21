@@ -1,0 +1,29 @@
+name: Generate Datas
+
+on:
+  schedule: # execute every 12 hours
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Generate snake animation
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # allow pushing to output branch
+
+    steps:
+      # Snake Animation
+      - name: Generate Snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: blackhat-coder21
+          outputs: dist/snake.svg
+
+      # Deploy to GitHub Pages
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist
